@@ -1,0 +1,32 @@
+.triton{
+	text-align: center;
+	font-family: Love;
+	font-size: 20px;
+	color: black;
+
+}
+div{
+	background-color: #b89572;
+	color: white;
+	text-align: center;
+	font-family: Love;
+	font-size: 30px;
+	width: 100%;
+	height: 50px;
+}
+.primer{
+	text-align: center;
+	font-family: Love;
+	font-size: 20px;
+	color: black;
+
+}
+.foto{
+	padding: 25px;
+	align-content: center;
+
+}
+.fott{
+	padding: 25px;
+	align-content: center;
+}

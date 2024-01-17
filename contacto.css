@@ -1,0 +1,47 @@
+.primer{
+	padding: 25px;
+	background-color: #b89572;
+	height: 35px;
+	font-family: Hello Valentica;
+	font-size: 50px;
+	color: white;
+}
+.segundo{
+	margin-top: 25px;
+	background-color: #b89572;
+	font-family: Love;
+	font-size: 25px;
+	color: white;
+	padding: 25px;
+	cursor: pointer;
+
+}
+.tercero{
+	margin-top: 25px;
+	padding: 25px;
+	background-color: #b89572;
+	font-family: Love;
+	font-size: 25px;
+	color: white;
+	cursor: pointer;
+}
+.cuarto{
+	margin-top: 25px;
+	padding: 25px;
+	background-color: #b89572;
+	font-family: Love;
+	font-size: 25px;
+	color: white;
+	cursor: pointer;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+div{
+	text-align: center;
+}
+div:hover{
+	background-color: #7a5c3c;
+}
+
